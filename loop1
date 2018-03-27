@@ -4,7 +4,7 @@ public class ForLoopMine {
 
     public static void main(String[] args) {
         int m=0;
-        String y="Hello,welcome to Java";
+        String y="You are welcome";
         
         for(m=0;m<5;m++){
             System.out.println(y);
